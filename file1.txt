@@ -1,3 +1,7 @@
 Implement the login functionality
 development branch 
-feature branchcase 1
+feature branch
+ case 1
+ HEAD
+security hotfix applied
+ 1e323e4 (hotfix applied)
