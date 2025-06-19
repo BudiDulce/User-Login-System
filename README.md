@@ -4,7 +4,7 @@ user Login System by Git Flow
 This repository demonstrates the construction of a user login system based on a Git Flow approach with an emphasis on using the `git rebase` command for conflict resolutions, as per the steps provided for the assignment. Each step outlines the Git commands used and the rationale behind them in order to provide for the development cycle of the project while maintaining a linear history wherever feasible.
 Task 1- Set Up Repository
 Git Commands Used
-- git clone (user-login-system - https://github.com/BudiDulce/User-Login-System ) GitHub link
+- git clone (user-login-system - https://github.com/BudiDulce/User-Login-System ) gitHub link
 Then to into the directory
 cd user-login-system
 Then to go to main branch we use command “Git chechkout”
@@ -45,7 +45,7 @@ git add file1.txt
 git commit -m ""
 git push origin feature
 ____________________________
-Then Trying to merge feature branch with development branch. We trying to merge but there will be a conflict and we will continue and solve it
+Then Trying to merge feature branch with development branch. we are trying to merge but there will be a conflict and we will continue and solve it
 git checkout development
 git merge feature
 we resolved the conflict in file1.txt manually, we inform git that it is resolved and store that resolution in the remote repo
